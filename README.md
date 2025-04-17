@@ -8,7 +8,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/thaisboboca#0) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thamirisferreiraa) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ta_ferreiraa) 
 
 # 💻 Tech Stack:
-![]([https://github-readme-stats.vercel.app/api/top-langs/?username=thamirisferreiraa&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=thamirisferreiraa&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact))
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thamirisferreiraa&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![](https://github-readme-stats.vercel.app/api?username=thamirisferreiraa&theme=radical&hide_border=false&include_all_commits=false&count_private=false)                                 
 
