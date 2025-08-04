@@ -1,7 +1,17 @@
-### Hi there 👋
+## 👋 Olá! Eu sou a Thamiris Ferreira
 
-# 💫 About Me:
-👋 Olá, sou a Thamiris!<br><br>Sou uma entusiasta da tecnologia e estou empolgada em estar na jornada de aprendizado em desenvolvimento web. Minha paixão é criar experiências incríveis na web, e estou focado em dominar as ferramentas essenciais para isso, como HTML5, CSS3 e JavaScript.<br><br>📚 Atualmente, estou investindo meu tempo em cursos, tutoriais e projetos pessoais para aprimorar minhas habilidades. Estou sempre em busca de novos desafios e oportunidades de aprendizado, e acredito que a programação é uma forma poderosa de criar impacto no mundo.<br><br>💡 Embora eu esteja no início da minha jornada, estou ansioso para expandir meus conhecimentos e colaborar com outros desenvolvedores criativos. Acredito que a troca de ideias e experiências é fundamental para o crescimento no campo da tecnologia.<br><br>🚀 Além do desenvolvimento web, também tenho interesse em desenvolvimento de Jogos, e estou animado para explorar essas áreas à medida que minha jornada avança.<br><br>🤝 Vamos aprender e crescer juntos! Se você tem alguma dica, projeto interessante ou apenas deseja bater um papo, não hesite em entrar em contato comigo. Estou ansioso para fazer parte desta incrível comunidade de desenvolvedores.<br><br>✉️ Você pode me alcançar em thamiris.fds@gmail.com ou se conectar comigo aqui no GitHub para acompanhar minha jornada. Vamos construir a web do futuro juntos! 😊<br>
+Sou estudante de Análise e Desenvolvimento de Sistemas, com grande interesse em desenvolvimento web e análise de dados.<br>
+Estou construindo minha trajetória na tecnologia com foco em **Python**, **C**, **Java** e fundamentos da programação, sempre buscando transformar ideias em soluções criativas e funcionais.<br><br>
+
+📚 Atualmente, venho me dedicando a cursos, projetos pessoais e práticas constantes para fortalecer minhas habilidades técnicas.<br>
+Acredito que a tecnologia é uma ferramenta poderosa de impacto — e quero usá-la para resolver problemas reais e contribuir com projetos significativos.<br><br>
+
+💡 Tenho um olhar curioso e aberto ao aprendizado contínuo.<br>
+Valorizo a troca de experiências e estou sempre disposta a colaborar, compartilhar conhecimento e crescer junto com outras pessoas da área.<br><br>
+
+📬 **Entre em contato:**<br>
+✉️ thamiris.ferreiraa@gmail.com<br>
+📌 Acompanhe meus projetos por aqui no GitHub!
 
 
 ## 🌐 Socials:
